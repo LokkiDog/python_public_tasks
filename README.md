@@ -24,4 +24,3 @@ In each folders you can find README file with instructions, file main_solution.p
 
 ## 📜 License
 Distributed under the MIT License. See [LICENSE](https://github.com/OpenDevin/OpenDevin/blob/main/LICENSE) for more information.
-
